@@ -1,0 +1,5 @@
+pip install git+https://github.com/ucla-trustworthy-ai-synthdata/alfred-analytica.git
+
+pip install git+https://github.com/huggingface/trl.git
+transformers
+datasets

@@ -4,3 +4,4 @@ RL_trained*
 trained_*
 trainer_*
 outcome*.pt
+report/*
